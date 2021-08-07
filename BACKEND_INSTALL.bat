@@ -1,2 +1,1 @@
-npm i -g @sanity/client
-npm i
+npm i -g @sanity/client && npm i
